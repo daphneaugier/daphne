@@ -1,5 +1,16 @@
 footer {
     color : black;
-    background-color: lightblue;
+    background-color: lightgray;
     padding: 3em;
+
+    a { 
+        color: gray;
+    }
+
+    ul,li  {
+        list-style: none;
+        display: inline;
+        float: right;
+        margin-right: 20px;
+    }
 }
