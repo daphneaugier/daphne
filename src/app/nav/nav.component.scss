@@ -1,5 +1,5 @@
 header {
-    background: lightgray;
+    background: transparent;
 
     .logo {
         font-weight: bold;
@@ -23,7 +23,7 @@ header {
                     color: black;
 
                     &:hover {
-                        background: #fff1a5;
+                        background: lightsteelblue;
                     }
                 }
             }
