@@ -10,7 +10,11 @@ footer {
     ul,li  {
         list-style: none;
         display: inline;
-        float: right;
         margin-right: 20px;
     }
+
+    .right {
+        float: right;
+    }
+
 }
