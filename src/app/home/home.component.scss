@@ -35,13 +35,13 @@
 
 
 main {
-  font-family: 'Biryani', sans-serif;
-
+  /*font-family: 'Biryani', sans-serif;*/
+  font-family: 'Roboto Mono', monospace, bold;
+  font: bolder;
   background-image: url("daphne.jpg");
   background-size: cover;
   padding: 10em;
   margin : 0em;
-  font: bolder;
   color: lightgoldenrodyellow;
 }
 

@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+
 
 main {
     background-color: lightgoldenrodyellow;
@@ -9,5 +11,11 @@ main {
   h1 {
     font-family: 'Roboto Mono', monospace;
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 25px;
+  }
+
+  h2 {
+      font-family: 'Titillium Web', sans-serif;
+      font-size: 19px;
+      font-style: bold;
   }
